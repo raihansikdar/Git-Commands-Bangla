@@ -4,8 +4,8 @@ Git Commands
 ## Translated Versions
 - [বাংলা সংস্করণ (original)](README.md)
 - [English version](READMEeng.md)
-_
 
+  
 _A list of my commonly used Git commands_
 --
 
